@@ -87,7 +87,8 @@
 
         // If your JSON has a timestamp field (e.g. data.timestamp)
         if (data.timestamp) {
-          updatedEl.textContent = `Last updated: ${new Date(data.timestamp).toLocaleString()}`;
+          //updatedEl.textContent = `Last updated: ${new Date(data.timestamp).toLocaleString()}`;
+          updatedEl.textContent = `Last updated: ${data.last_updated}`;
         } else {
           updatedEl.textContent = "Live status data";
         }
