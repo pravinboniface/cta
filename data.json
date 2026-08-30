@@ -1,0 +1,341 @@
+{
+  "last_updated": "20260830 07:02",
+  "routes": {
+    "Blue Line": {
+      "status": "Planned Work w/Part Closure",
+      "color": "00a1de",
+      "text_color": "FFFFFF",
+      "status_color": "06c"
+    },
+    "Green Line": {
+      "status": "Special Note",
+      "color": "009b3a",
+      "text_color": "FFFFFF",
+      "status_color": "000000"
+    },
+    "Purple Line": {
+      "status": "Added Service",
+      "color": "522398",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Yellow Line": {
+      "status": "Added Service",
+      "color": "f9e300",
+      "text_color": "000000",
+      "status_color": "000000"
+    },
+    "Hyde Park Express": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "06c"
+    },
+    "King Drive": {
+      "status": "Added Service",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Cottage Grove": {
+      "status": "Minor Delays / Reroute",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "B45F04"
+    },
+    "South Shore Night Bus": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "009999",
+      "status_color": "06c"
+    },
+    "Jackson Park Express": {
+      "status": "Planned Reroute",
+      "color": "b71234",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Harrison": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Halsted": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Obama Presidential Center/Museum of Science & Industry Express": {
+      "status": "Planned Reroute",
+      "color": "b71234",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Lincoln": {
+      "status": "Bus Stop Relocation",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Roosevelt": {
+      "status": "Bus Stop Note",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Jeffery Jump": {
+      "status": "Planned Reroute",
+      "color": "0065BD",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Jeffery Local": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Madison": {
+      "status": "Bus Stop Note",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Clark": {
+      "status": "Bus Stop Note",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Wentworth": {
+      "status": "Bus Stop Note",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "State": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "31st/35th": {
+      "status": "Added Service",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Broadway": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Sedgwick": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Wallace/Racine": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Western": {
+      "status": "Planned Reroute",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "North Western": {
+      "status": "Bus Stop Relocation",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Western Express": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "00a078",
+      "status_color": "06c"
+    },
+    "Damen": {
+      "status": "Bus Stop Note",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Milwaukee": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Blue Island/26th": {
+      "status": "Planned Reroute",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Archer": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Chicago": {
+      "status": "Planned Reroute",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "67th-69th-71st": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Division": {
+      "status": "Added Service",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Armitage": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Fullerton": {
+      "status": "Added Service",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Diversey": {
+      "status": "Added Service",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Montrose": {
+      "status": "Service Change",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Kimball-Homan": {
+      "status": "Planned Reroute",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Central": {
+      "status": "Added Service",
+      "color": "414145",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    },
+    "Austin": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Foster": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "California/Dodge": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Lunt": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Pullman/115th": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Ogilvie/Streeterville Express": {
+      "status": "Bus Stop Note",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "000000"
+    },
+    "Union/Streeterville Express": {
+      "status": "Bus Stop Note",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "000000"
+    },
+    "Navy Pier": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Water Tower Express": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "06c"
+    },
+    "Jackson": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Inner Lake Shore/Michigan Express": {
+      "status": "Planned Reroute",
+      "color": "b71234",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "Clarendon/Michigan Express": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "06c"
+    },
+    "Streeterville/Taylor": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "U. of Chicago/Kenwood": {
+      "status": "Planned Reroute",
+      "color": "565a5c",
+      "text_color": "ffffff",
+      "status_color": "06c"
+    },
+    "U. of Chicago Hospitals Express": {
+      "status": "Planned Reroute",
+      "color": "ffffff",
+      "text_color": "b71234",
+      "status_color": "06c"
+    },
+    "All Bus Routes": {
+      "status": "Service Change",
+      "color": "000000",
+      "text_color": "ffffff",
+      "status_color": "000000"
+    }
+  }
+}
