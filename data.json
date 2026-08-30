@@ -1,11 +1,11 @@
 {
-  "last_updated": "20260830 07:02",
+  "last_updated": "20260830 07:39",
   "routes": {
     "Blue Line": {
-      "status": "Planned Work w/Part Closure",
+      "status": "Minor Delays",
       "color": "00a1de",
       "text_color": "FFFFFF",
-      "status_color": "06c"
+      "status_color": "B45F04"
     },
     "Green Line": {
       "status": "Special Note",
